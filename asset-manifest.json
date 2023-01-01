@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AdelineDs/my-react-app/static/css/main.f38443f5.css",
+    "main.js": "/AdelineDs/my-react-app/static/js/main.ef2bba7c.js",
+    "static/js/787.28cb0dcd.chunk.js": "/AdelineDs/my-react-app/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/AdelineDs/my-react-app/index.html",
+    "main.f38443f5.css.map": "/AdelineDs/my-react-app/static/css/main.f38443f5.css.map",
+    "main.ef2bba7c.js.map": "/AdelineDs/my-react-app/static/js/main.ef2bba7c.js.map",
+    "787.28cb0dcd.chunk.js.map": "/AdelineDs/my-react-app/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f38443f5.css",
+    "static/js/main.ef2bba7c.js"
+  ]
+}
